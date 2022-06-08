@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevdocs_docs=self.webpackChunkdevdocs_docs||[]).push([[353],{2427:function(e){e.exports=JSON.parse('{"specUrl":"https://redocly.github.io/redoc/openapi.yaml","type":"url","content":"https://redocly.github.io/redoc/openapi.yaml"}')}}]);
