@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[80581],{80581:(e,s,a)=>{a.r(s),a.d(s,{default:()=>t});const t=a.p+"assets/images/serif2x-8ac8ef8279b5b9474496958340a0a2b4.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[78031],{78031:(e,n,s)=>{s.r(n),s.d(n,{default:()=>a});const a=s.p+"assets/images/mui_banner-36e8b3a079e16ebc06d7d86216b7bb2d.png"}}]);

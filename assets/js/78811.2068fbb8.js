@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[78811],{78811:n=>{n.exports=JSON.parse('{"type":"array","contains":{"type":"number"},"minContains":2,"maxContains":3}')}}]);

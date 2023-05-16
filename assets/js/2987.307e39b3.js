@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[2987],{2987:(e,a,n)=>{n.r(a),n.d(a,{default:()=>s});const s=n.p+"assets/images/invoice-generator-98f77292155aba4d361cf85bd5b458d6.png"}}]);

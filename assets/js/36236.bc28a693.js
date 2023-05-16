@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[36236],{36236:(e,s,a)=>{a.r(s),a.d(s,{default:()=>t});const t=a.p+"assets/images/omer2x-7f92027184b931049554bc7a32ff5da5.png"}}]);

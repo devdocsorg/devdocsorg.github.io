@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[75331],{75331:e=>{e.exports=JSON.parse('{"type":"array","prefixItems":[{"type":"integer"},{"type":"string"}],"unevaluatedItems":false}')}}]);

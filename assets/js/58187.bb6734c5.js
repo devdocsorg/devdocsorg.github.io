@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[58187],{58187:(e,s,c)=>{c.r(s),c.d(s,{default:()=>a});const a=c.p+"assets/images/graphql-93c91ec4622464f0cdf1fe82ca86ff90.svg"}}]);

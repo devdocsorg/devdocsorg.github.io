@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[93685],{93685:e=>{e.exports=JSON.parse('{"type":"object","properties":{"name":{"type":"string"},"credit_card":{"type":"number"}},"required":["name"],"dependencies":{"credit_card":{"properties":{"billing_address":{"type":"string"}},"required":["billing_address"]}}}')}}]);

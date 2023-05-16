@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[43089],{43089:e=>{e.exports=JSON.parse('{"type":"number","multipleOf":10}')}}]);

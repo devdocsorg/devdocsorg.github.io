@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[96984],{96984:(e,a,s)=>{s.r(a),s.d(a,{default:()=>c});const c=s.p+"assets/images/yildiray2x-4930edc5b67089c439a8ea1555d9c770.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[71612],{71612:e=>{e.exports=JSON.parse('{"title":"Match anything","description":"This is a *schema* that matches **anything.**","default":"Default value","examples":["Anything",4035],"deprecated":true,"readOnly":true,"writeOnly":false}')}}]);

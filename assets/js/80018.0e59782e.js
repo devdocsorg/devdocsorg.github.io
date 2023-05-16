@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[80018],{80018:(e,n,s)=>{s.r(n),s.d(n,{default:()=>c});const c=s.p+"assets/images/refine-week-invoicer-logo-739139b2fbb37097a4d69079ffc641c3.png"}}]);

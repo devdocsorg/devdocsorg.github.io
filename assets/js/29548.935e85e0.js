@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[29548],{29548:(s,e,a)=>{a.r(e),a.d(e,{default:()=>d});const d=a.p+"assets/images/dashboard-4x-5f482d3f642026cd932c4fd7b155252b.png"}}]);

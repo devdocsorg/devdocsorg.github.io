@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[75567],{75567:e=>{e.exports=JSON.parse('{"type":"object","properties":{"builtin":{"type":"number"}},"patternProperties":{"^S_":{"type":"string"},"^I_":{"type":"integer"}},"additionalProperties":{"type":"string"}}')}}]);

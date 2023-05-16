@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[50762],{50762:e=>{e.exports={type:"number"}}}]);

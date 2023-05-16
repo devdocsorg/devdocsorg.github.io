@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[62580],{62580:(e,s,t)=>{t.r(s),t.d(s,{default:()=>n});const n=t.p+"assets/images/nextjs-ecommerce-e45db185955406f53a48e798b580db26.png"}}]);

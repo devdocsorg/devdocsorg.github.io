@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[94801],{94801:(e,a,c)=>{c.r(a),c.d(a,{default:()=>s});const s=c.p+"assets/images/necati2x-8be96d66afdcc8555ec9186a1a37e251.png"}}]);

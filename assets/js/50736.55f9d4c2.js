@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[50736],{50736:(a,c,e)=>{e.r(c),e.d(c,{default:()=>s});const s=e.p+"assets/images/background-7208697261ff529ad060a8d4d6c9cca3.png"}}]);

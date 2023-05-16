@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[2988],{2988:(a,e,s)=>{s.r(e),s.d(e,{default:()=>t});const t=s.p+"assets/images/nestjs-alt-0fa2a7f31aab027d119e93a7c6154beb.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[88326],{88326:(e,s,a)=>{a.r(s),a.d(s,{default:()=>c});const c=a.p+"assets/images/refine-week-pixel-logo-bf2f761994f3d7b236578c2ca68a89c5.png"}}]);

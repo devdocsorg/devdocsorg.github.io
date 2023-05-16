@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[49212],{49212:(e,s,a)=>{a.r(s),a.d(s,{default:()=>c});const c=a.p+"assets/images/antd-finefoods-a5b1583424cd4cfdefc32e5cb89a2108.png"}}]);

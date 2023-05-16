@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[79490],{79490:(e,s,a)=>{a.r(s),a.d(s,{default:()=>t});const t=a.p+"assets/images/burak-95b2f465caf18de1b1b7b649711d074c.png"}}]);

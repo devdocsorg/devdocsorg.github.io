@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[23909],{23909:e=>{e.exports=JSON.parse('{"type":"object","properties":{"externalProp":{"$ref":"https://raw.githubusercontent.com/jy95/docusaurus-json-schema-plugin/main/testsite/static/schemas/examples/array/tuples.json"}}}')}}]);

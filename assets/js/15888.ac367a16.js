@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[15888],{15888:(e,t,n)=>{n.r(t),n.d(t,{default:()=>s});const s=n.p+"assets/images/multi-tenancy-0b7e7658b7bd950534329fec28bb3b29.png"}}]);

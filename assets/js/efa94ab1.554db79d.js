@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[85549],{85955:e=>{e.exports=JSON.parse('{"title":"Packages","slug":"/packages","permalink":"/docs/packages","navigation":{"previous":{"title":"Theme","permalink":"/docs/api-reference/mui/theming"},"next":{"title":"List of Packages","permalink":"/docs/packages/list-of-packages"}}}')}}]);
